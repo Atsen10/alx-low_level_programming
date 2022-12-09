@@ -1,11 +1,11 @@
 #include <stdio.h>
-/*
+/**
  * main - print a line of code using puts
  *
  * Return: o
  */
 int main(void)
 {
-	puts("\|"programmimg is like building a multilingual puzzle");
+	puts("\"Programmimg is like building a multilingual puzzle");
 	return (o);
 }
