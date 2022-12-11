@@ -2,7 +2,7 @@
 /**
  * main - print out sizes of data types in c
  * code by atsen ict
- * return: 0
+ * Return: 0
 */
 int main(void)
 {
