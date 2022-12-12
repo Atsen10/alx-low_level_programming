@@ -1,9 +1,9 @@
 #include <stdlib.h>
-#include <time.hi>
-#include <stdio.h>
+#include <time.h>
+#include <stdio>
 
 /**
- * main - exciting
+ * main - great
  *
  * Return: 0
  */
@@ -31,4 +31,3 @@ int main(void)
 	printf("\n");
 	return (0);
 }
-
