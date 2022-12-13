@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - printr _putchar
+ * main - print _putchar
  * is written by atsen
  * Return: 0
  */
