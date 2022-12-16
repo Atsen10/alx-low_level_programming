@@ -5,8 +5,10 @@
  * atsen ict file
  *Return: return nothing
  */
-void more_numbers(void);
+ 
+void more_numbers(void)
 {
+
 int i, j;
 	for (i = 1; i <= 10; i++)
 	{
