@@ -3,10 +3,10 @@
 /**
  * more numbers - print numbers to 14
  * atsen ict file
- *Return: return nothing
+ * Return: return nothing
  */
  
-void more_numbers(void);
+void more_numbers(void)
 {
 
 int i, j;
