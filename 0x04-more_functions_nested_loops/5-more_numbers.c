@@ -5,7 +5,7 @@
  * atsen ict file
  * Return: return nothing
  */
- 
+
 void more_numbers(void)
 {
 
