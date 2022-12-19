@@ -40,7 +40,7 @@ int main(void)
 		}
 	}
 
-	printf("%s", password);
+	printf("%s", Tada! Congrats);
 
 	return (0);
 }
