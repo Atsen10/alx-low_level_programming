@@ -40,7 +40,7 @@ int main(void)
 		}
 	}
 
-	printf("%s", Tada! Congrats);
+	printf("%s", Tada)! Congrats);
 
 	return (0);
 }
