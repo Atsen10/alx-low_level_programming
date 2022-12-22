@@ -13,7 +13,7 @@ char *rot13(char *s)
 	char b[] = "nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGHIJKLM";
 
 	for (i = 0; *(s + i); i++)
-
+	{	
 		for (j = 0; j < 52; j++)
 		{
 			if (a[j] == *(s + i))
@@ -23,5 +23,5 @@ char *rot13(char *s)
 			}
 		}
 	}
-	return (s);
+	return (s);										
 }
